@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rrssorgato
-- 👀 I’m interested in C & C++
-- 🌱 I’m currently learning a bit of Rust
-- 💞️ I’m looking to collaborate on Open Source projects
+- 👀 I’m interested in C, C++, Rust & C#
 - 📫 How to reach me: send me an email at rrssorgato@protonmail.com
 
 <!---
